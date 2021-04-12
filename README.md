@@ -6,19 +6,19 @@
 
 <p align="left"> <a href="https://twitter.com/thedabolical" target="blank"><img src="https://img.shields.io/twitter/follow/thedabolical?logo=twitter&style=for-the-badge" alt="thedabolical" /></a> </p>
 
-- 🔭 I’m currently working on **a Through the Breach tabletop RPG character creator that is animated, dynamic, and intuitive!**
+- 🔭 I’m currently working on **a proprietary Through the Breach tabletop RPG character creator that is animated, dynamic, and intuitive** using React, Node, and Express!
 
-- 🌱 I’m currently learning **Next.js.**
+- 🌱 I’m currently learning **Next.js.**!
 
-- 👯 I’m looking to collaborate on **any projects for greater societal good.**
+- 👯 I’m looking to collaborate on **any projects meant to help those who are underprivileged**.
 
-- 👨‍💻 All of my projects are available on [my profile](https://portfolio.jamescrosslin.repl.co) created with Node, Express, and Pug.
+- 👨‍💻 All of my projects are available on [my portfolio page](https://profile.jamescrosslin.repl.co) created with Node, Express, and Pug.
 
-- 📝 I regularly stream code help and reviews [on Twitch](https://twitch.tv/thedabolical)
+- 📝 I regularly stream Javascript fundamentals lessons and code reviews [on Twitch](https://twitch.tv/thedabolical).
 
 - 💬 Ask me about **Javascript fundamentals and React.**
 
-- 📫 How to reach me **jamesmscrosslin@gmail.com**
+- 📫 You can reach me at [jamesmscrosslin@gmail.com](mailto:jamesmscrosslin@gmail.com)
 
 - 📄 Learn about my experience by [downloading my resume](https://drive.google.com/file/d/17h6SDtUKZRucQi44bzEGkXY8vRvhEhu9/view?usp=sharing)
 
