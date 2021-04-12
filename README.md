@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **any projects for greater societal good.**
 
-- 👨‍💻 All of my projects are available on [my profile](portfolio.jamescrosslin.repl.co) created with Node, Express, and Pug.
+- 👨‍💻 All of my projects are available on [my profile](https://portfolio.jamescrosslin.repl.co) created with Node, Express, and Pug.
 
 - 📝 I regularly stream code help and reviews [on Twitch](https://twitch.tv/thedabolical)
 
