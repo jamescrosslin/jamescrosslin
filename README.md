@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm James Crosslin</h1>
-<h3 align="center">A Full Stack Javascript developer based in Las Vegas, NV</h3>
+<h3 align="center">A Full Stack Javascript developer based in San Diego, CA</h3>
 <h3 align="center">and I want to be your next Software Engineer!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=100devs&label=Profile%20views&color=0e75b6&style=flat" alt="jamescrosslin" /> </p>
