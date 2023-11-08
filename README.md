@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **any projects meant to help those who are underprivileged**.
 
-- 👨‍💻 All of my projects are available on [my portfolio page](https://profile.jamescrosslin.repl.co) created with Node, Express, and Pug.
+<!-- - 👨‍💻 All of my projects are available on [my portfolio page](https://profile.jamescrosslin.repl.co) created with Node, Express, and Pug. -->
 
 - 📝 I regularly stream Javascript fundamentals lessons and code reviews [on Twitch](https://twitch.tv/thedabolical).
 
